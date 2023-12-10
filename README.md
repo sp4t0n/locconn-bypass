@@ -25,7 +25,7 @@ You can modify the script to target different URLs or extract different elements
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under [The Unlicense](LICENSE).
 
 ## Disclaimer
 This script is for educational purposes only. Ensure that you have permission to scrape the website and that your actions comply with the website's terms of service.
